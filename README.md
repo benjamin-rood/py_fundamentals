@@ -32,13 +32,15 @@ Click the link for **Lesson 0.1** below. It will open the notebook directly in G
 
 ### Step 2: Save a copy to your Google Drive
 
-When the notebook opens, go to **File > Save a copy in Drive**. This creates your own copy that you can edit and keep. If you skip this step, your changes will be lost when you close the tab.
+When the notebook opens, go to **File > Save a copy in Drive** before doing anything else. The original notebook is read-only — it belongs to the course repository and cannot be modified. Your copy in Google Drive is where your work is saved. If you skip this step, everything you type or run will be lost when you close the tab.
 
 ### Step 3: Work through the notebook
 
 Read the explanations, run each code cell (click the play button or press **Shift+Enter**), and experiment. The notebooks are self-contained — everything you need is in the cells and markdown text.
 
 ## Lesson Notebooks (Weeks 0–4)
+
+> **Before you start:** When you open a notebook in Colab, go to **File > Save a copy in Drive** immediately. The links below open read-only originals — any work you do in the original will be lost when you close the tab. Your saved copy in Google Drive is where your actual work lives.
 
 Click any link below to open the lesson in Google Colab.
 
