@@ -98,6 +98,34 @@ At Week 5 you move to [Replit](https://replit.com/). Create a free account, then
 
 The BMI calculator ([`bmi.py`](python_learning_replit/bmi.py) and [`test_bmi.py`](python_learning_replit/test_bmi.py)) is the running example used throughout these lessons.
 
+## Supplementary Resources
+
+All optional. Read or watch *after* the corresponding lesson if a concept didn't land. The curriculum is designed to stand alone — these are for reinforcement only.
+
+### Free
+
+| When | Resource | Why |
+|------|----------|-----|
+| Week 1 | [Launch School: "Variables as Pointers"](https://launchschool.com/books/ruby/read/more_stuff#variables_as_pointers) | Covers the same object/reference model as Week 1 |
+| Week 1 | [Ned Batchelder — "Facts and Myths about Python Names and Values" (PyCon talk)](https://www.youtube.com/watch?v=_AEJHKGk9ns) — first 12 minutes only | Authoritative treatment with no analogies |
+| Week 5 | [pytest docs: "Get Started"](https://docs.pytest.org/en/stable/getting-started.html) | Short, practical pytest introduction |
+| After Week 7 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Natural next step: files, automation, real scripts |
+| After Week 7 | [Ryan Carson's 2026 coding guide](https://theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/) | The playbook this curriculum prepares you for |
+| After Week 7 | [Claude Code docs](https://docs.claude.com) | Reference for continued Claude Code use |
+
+### Real Python (paid, ~$20/month)
+
+Articles from [realpython.com](https://realpython.com/) for deeper coverage. Read after the lesson notebook for that week.
+
+| Week | Article | Why |
+|------|---------|-----|
+| 1 | "Variables in Python: Usage and Best Practices" | References, `id()`, identity vs equality |
+| 2 | "Python for Loops: The Pythonic Way" | Loop mechanics |
+| 3 | "Pass by Reference in Python: Best Practices" | Pass-by-assignment with `id()` |
+| 4 | "Python's list Data Type: A Deep Dive" | Lists reference |
+| 4 | "Dictionaries in Python" | Dicts reference |
+| 4 | "Python's Mutable vs Immutable Types" | `id()`, aliasing, copying |
+
 ## Full Curriculum Outline
 
 The complete week-by-week curriculum with learning objectives is in [`curriculum_v7.md`](curriculum_v7.md).
