@@ -108,6 +108,17 @@ The complete week-by-week curriculum with learning objectives is in [`curriculum
 
 **Shift+Enter doesn't run the cell** — Make sure you've clicked into the cell first. The cell border should turn blue or green.
 
+## Development
+
+To verify all notebook code cells execute without errors:
+
+```bash
+python3 test_notebooks.py          # standalone
+pytest test_notebooks.py -v        # via pytest
+```
+
+No Jupyter installation required — notebooks are parsed as JSON and code cells are executed directly. Cells that intentionally demonstrate errors (e.g. `10 / 0`) are tagged with `"raises-exception"` in their metadata and are expected to fail.
+
 ## License
 
 [MIT](LICENSE) — Benjamin Rood, 2026
